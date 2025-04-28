@@ -42,6 +42,6 @@ Basic game logic
 Responsive design techniques
 
 📩 Connect with Me
-LinkedIn
+LinkedIn {https://www.linkedin.com/in/shashankoffice/}
 
 GitHub
