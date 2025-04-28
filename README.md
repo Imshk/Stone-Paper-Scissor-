@@ -12,7 +12,6 @@ A simple and interactive Stone Paper Scissors (Rock Paper Scissors) game built u
 - User vs Computer gameplay
 - Random computer moves
 - Scoreboard tracking
-- Responsive design (works on mobile too)
 - Smooth animations and user-friendly interface
 
 
