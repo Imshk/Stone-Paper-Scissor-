@@ -32,8 +32,10 @@ Just open index.html in your browser!
 
 No extra installations needed ✅
 
-📚 Lessons Learned
-DOM manipulation with JavaScripti
+📚 Lessons Learned: 
+
+DOM manipulation with JavaScript
+
 Event handling
 
 Basic game logic
