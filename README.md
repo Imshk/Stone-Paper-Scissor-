@@ -33,15 +33,16 @@ Just open index.html in your browser!
 No extra installations needed ✅
 
 📚 Lessons Learned
-DOM manipulation with JavaScript
-
+DOM manipulation with JavaScripti
 Event handling
 
 Basic game logic
 
-Responsive design techniques
+CSS
+
+git, GitHub, GitHub Pages
 
 📩 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/shashankoffice/)
 
-GitHub
+
